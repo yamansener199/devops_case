@@ -1,0 +1,6 @@
+com/arbade/gjc/service/LeaderboardServiceTest.class
+com/arbade/gjc/controller/UserControllerTest.class
+com/arbade/gjc/service/ScoreServiceTest.class
+com/arbade/gjc/controller/ScoreControllerTest.class
+com/arbade/gjc/GjcApplicationTests.class
+com/arbade/gjc/service/UserServiceTest.class
